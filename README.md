@@ -1,7 +1,7 @@
-oyeristas
-=========
+# oyeristas
+## escuchando:
 
-aventuras en la vitrina del edificio de la Naviera en Medellin
+Aventuras en la vitrina del edificio de la Naviera en Medellin
 
 http://dorkbot.org/dorkbotmde/oyeristas/
 
